@@ -50,5 +50,5 @@ while ans=='y' or ans=='Y':
     print(" | \____(      )___) )___")
     print("  \______(_______;;; __;;;")
     print("你還要再玩嗎？(y/n)")
-    ans=chr(input())
+    ans=input()
 print("byebye~下次再來喔")
